@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">RxJava</string>
+    <string name="app_name">True Caller Assignment</string>
+    <string name="run_it">Run 3 Requests</string>
+    <string name="trueCaller10thCharacterRequest">\n\ntrueCaller10thCharacterRequest\n\n</string>
+    <string name="trueCallerEvery10thCharacterRequest">\n\ntrueCallerEvery10thCharacterRequest\n\n</string>
+    <string name="trueCallerWordCounterRequest">\n\ntrueCallerWordCounterRequest\n\n</string>
+    <string name="dev">jefferson.almeida.comp@gmail.com</string>
 </resources>
